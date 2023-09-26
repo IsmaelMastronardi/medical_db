@@ -41,7 +41,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Medical-DataBase 💻
+# 📖 Clinic-DataBase 💻
  <a name="about-project"></a>
 
 It is a project in which we have to use a relational database to create the data structure of a hospital.
