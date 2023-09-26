@@ -80,7 +80,7 @@ You have to have tools like:
 Clone this repository to your desired folder:
 
 ```sh
-git clone git@github.com:JavierAybar/Vet-Clinic-DataBase.git 
+git clone git@github.com:IsmaelMastronardi/medical_db.git
 ```
 Go to the project directory.
 
